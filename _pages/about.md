@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-https://github.com/z-0zero0/ZSJcv.github.io/blob/master/_pages/about.md
-个人简介
--姓名：张世杰
--年级：2023级硕士
--学院：南京航空航天大学计算机科学与技术学院
--导师：梁栋 副教授
--邮箱：zsjhhxxttxs@nuaa.edu.cn
+
+个人简介  
++姓名：张世杰  
++年级：2023级硕士  
++学院：南京航空航天大学计算机科学与技术学院  
++导师：梁栋 副教授  
++邮箱：zsjhhxxttxs@nuaa.edu.cn  
 
 
 
 教育经历
 ======
--2019 - 2023：合肥工业大学 电子商务
+-2019 - 2023：合肥工业大学 电子商务  
 -2023 -   今：南京航空航天大学 计算机科学与技术
 
 Getting started
